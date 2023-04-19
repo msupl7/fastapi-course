@@ -5,3 +5,8 @@ sqlalchemy
 psycopg2
 
 python-dotenv
+
+pydantic[email]
+
+passlib
+passlib[bcrypt]
